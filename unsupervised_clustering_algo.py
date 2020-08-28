@@ -39,7 +39,7 @@ plt.title("Before training")
 plt.show()
 
 
-for i in range(0,20):     ## 3 iterations enough for this to learn
+for i in range(0,20):     
 
     #Centroid assignment step
     for j in range(0,18):      ##checking distance of x1 y1 datasets
